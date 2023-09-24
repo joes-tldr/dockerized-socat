@@ -2,6 +2,10 @@
 
 Ref: https://linux.die.net/man/1/socat
 
+DockerHub: https://hub.docker.com/r/joestldr/socat
+
+GitHub: https://github.com/joes-tldr/dockerized-socat
+
 ## TLDR; Sample usage: UDP proxy over TCP
 
 ```bash
